@@ -5,6 +5,7 @@
 第2周	数据分析方法论	介绍数据采集与分析的方法论
 
 第3周	SPSS操作入门	介绍SPSS软件的界面与菜单
+  参考：http://www.stat.ualberta.ca/statslabs/stat252/files/introlab.pdf
 
 第4周	数据输入	介绍SPSS数据的形式及属性
 
