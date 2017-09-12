@@ -6,8 +6,8 @@
   
 第2周	数据分析方法论	介绍数据采集与分析的方法论（见上面的PPT）
 
-课后作业：在自己的电脑上装好SPSS，复习一下统计学入门，下面有Udacity在线课程
-  
+课后作业：在自己的电脑上装好SPSS，复习一下统计学入门，下面有Udacity在线课程。
+
 第3周	SPSS操作入门	介绍SPSS软件的界面与菜单
 
   参考：http://www.stat.ualberta.ca/statslabs/stat252/files/introlab.pdf
