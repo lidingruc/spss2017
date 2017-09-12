@@ -1,13 +1,17 @@
 # 课程大纲
 ## 这2017年秋季开给中国人民大学商学院本科生课程
 第1周	课程介绍   介绍课程内容安排与SPSS安装（见上面的PPT）
-  课后作业：找一本《社会研究方法》之类的书，速读一遍。
+  
+  课后作业：找一本《社会研究方法》之类的书，速读一遍。
   
 第2周	数据分析方法论	介绍数据采集与分析的方法论（见上面的PPT）
-  课后作业：在自己的电脑上装好SPSS，复习一下统计学入门，下面有Udacity在线课程
+  
+  课后作业：在自己的电脑上装好SPSS，复习一下统计学入门，下面有Udacity在线课程
   
 第3周	SPSS操作入门	介绍SPSS软件的界面与菜单
+
   参考：http://www.stat.ualberta.ca/statslabs/stat252/files/introlab.pdf
+  
   视频：https://onlinecourses.science.psu.edu/statprogram/spss
 
 第4周	数据输入	介绍SPSS数据的形式及属性
@@ -42,13 +46,18 @@
 
 英文教材配套资料： Introductory Statistics Using SPSS, Second Edition, by Herschel Knapp. 
 https://study.sagepub.com/knappstats2e
+
 SPSS操作短视频：https://onlinecourses.science.psu.edu/stat500/book/export/html/70
 
 参考在线课程：统计学入门
 https://cn.udacity.com/course/intro-to-statistics--st101
 
 在线教材（供参考）：
+
 https://learn.saylor.org/course/view.php?id=28&sectionid=271#section-1
+
 http://onlinestatbook.com/2/introduction/introduction.html
+
 https://saylordotorg.github.io/text_introductory-statistics/index.html
+
 http://cnx.org/contents/XgdE-Z55@40.9:WfFqfaIG@11/Probability
