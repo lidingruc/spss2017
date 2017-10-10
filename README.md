@@ -16,6 +16,12 @@
 
 第4周	数据输入	介绍SPSS数据的形式及属性
 
+  扩展学习内容：建立epidata文件，录入数据
+  
+  软件下载地址：http://www.epidata.dk/download.php；
+  
+  软件入门介绍：http://epidata.dk/downloads/epidatamanagerintro.pdf）
+
 第5周	数据导入	SPS导入数据与数据库连接
 
 第6周	变量处理1	Compute与SPSS函数
